@@ -1,0 +1,11 @@
+
+1. Find the second largest in an ARRAY?
+2. How to do sorting in HashMap?
+3. How to find maximum and minimum in an ARRAY?
+4. How to Add/Join/Combine two list?
+5. Give an example of Overriding?
+6. How to find duplicate element in Array?
+7. How to check if two strings are Anagrams?
+8. How to reverse a string without using function?
+9. How to find a number is Palindrome or not?
+10. How to check a number is prime or not?
